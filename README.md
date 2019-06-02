@@ -6,8 +6,6 @@
 
 * python == 3.6
 * torch == 1.1.0
-* cuda == 10.0.130
-* cudnn == 7.5.1.10
 * Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
 * NVIDIA TITAN Xp
 
