@@ -32,7 +32,7 @@ dill==0.2.9
 docker==4.0.1
 docker-pycreds==0.4.0
 docutils==0.14
-ecdsa==0.13.2
+ecdsa==0.13.3
 editdistance==0.5.3
 en-core-web-sm==2.0.0
 enum34==1.1.6
