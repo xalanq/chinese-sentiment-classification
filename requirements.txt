@@ -127,7 +127,7 @@ tb-nightly==1.14.0a20190523
 tensorboard==1.13.1
 tensorboardX==1.7
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.15.0
+tensorflow-gpu==1.15.4
 tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
 thinc==7.0.4
