@@ -11,7 +11,7 @@ awscli==1.16.163
 Babel==2.6.0
 bert-serving-client==1.9.1
 bert-serving-server==1.9.1
-bleach==1.5.0
+bleach==3.3.0
 blis==0.2.4
 boto==2.49.0
 boto3==1.9.153
