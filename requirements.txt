@@ -51,7 +51,7 @@ html5lib==0.9999999
 idna==2.7
 imagesize==1.1.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 joblib==0.13.2
 jsondiff==1.1.2
