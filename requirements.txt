@@ -136,7 +136,7 @@ torch==1.1.0
 tqdm==4.32.1
 ujson==1.35
 Unidecode==1.0.23
-urllib3==1.25.2
+urllib3==1.25.8
 wasabi==0.2.2
 wcwidth==0.1.7
 webencodings==0.5.1
