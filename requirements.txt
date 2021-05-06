@@ -38,7 +38,7 @@ en-core-web-sm==2.0.0
 enum34==1.1.6
 flaky==3.5.3
 Flask==1.0.3
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 ftfy==5.5.1
 future==0.17.1
 gast==0.2.2
