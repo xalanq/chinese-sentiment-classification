@@ -47,7 +47,7 @@ GPUtil==1.4.0
 greenlet==0.4.15
 grpcio==1.20.1
 h5py==2.9.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.7
 imagesize==1.1.0
 itsdangerous==1.1.0
