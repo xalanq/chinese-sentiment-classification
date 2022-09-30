@@ -53,7 +53,7 @@ imagesize==1.1.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 jmespath==0.9.4
-joblib==0.13.2
+joblib==1.2.0
 jsondiff==1.1.2
 jsonnet==0.12.1
 jsonpatch==1.23
